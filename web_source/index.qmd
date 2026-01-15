@@ -1,9 +1,9 @@
 ---
-title: "Welcome to the UCL Biosciences travel plan"
+title: "Welcome to the UCL CHME0039 travel plan"
 toc: false
 ---
 
-### UCL Biosciences department is planing to go on holidays
+### CHME0039 module is planing to go on holidays
 
 Staff and students join together to plan where it's going to be
 their next holiday location.

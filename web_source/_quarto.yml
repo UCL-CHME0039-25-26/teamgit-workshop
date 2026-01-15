@@ -4,12 +4,12 @@ project:
   output-dir: ../_site
 
 website:
-  title: "<TEAM>-travellingo"
+  title: "CHME0039-travellingo"
   image: "android-chrome-512x512.png"
   favicon: "favicon.ico"
   open-graph: true
   twitter-card: true
-  repo-url: https://github.com/UCL-ARC-Workshops/yyyymmdd-teamgit-workshop
+  repo-url: https://github.com/UCL-CHME0039-25-26/teamgit-workshop
   page-navigation: true
   search: true
   back-to-top-navigation: true
@@ -20,8 +20,8 @@ website:
   navbar:
     title: "is travelling"
     background: dark
-    logo: TEAM.png
-    logo-alt: "<TEAM> logo."
+    logo: ihi.png
+    logo-alt: "IHI logo."
     collapse-below: lg
     right:
       - href: cities.qmd
