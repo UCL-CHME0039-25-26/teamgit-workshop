@@ -4,12 +4,12 @@ Country: Algeria (Africa)
 
 ##### Also known as:
 
-FIXME
+el-Behdja
 
 ### What we would like to see there
 
-FIXME
+Botanical Garden Hamma
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Algiers)
