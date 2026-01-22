@@ -4,7 +4,7 @@ Country: China (Asia)
 
 ##### Also known as:
 
-The capitol of the Sichuan province, also known as Rongcheng or Jincheng.
+The capital of the Sichuan province, also known as Rongcheng or Jincheng.
 
 ### What we would like to see there
 Chengdu Research Base of Giant Panda Breeding: Get up close with giant pandas and red pandas in a semi-natural habitat; a quintessential Chengdu experience.
