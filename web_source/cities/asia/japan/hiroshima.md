@@ -4,12 +4,13 @@ Country: Japan (Asia)
 
 ##### Also known as:
 
-FIXME
+City of Peace
 
 ### What we would like to see there
 
-FIXME
+Hiroshima Castle
 
 ### Extra information
 
 - Link to [wikipedia](https://wikipedia.org/FIXME)
+- https://en.wikipedia.org/wiki/Hiroshima
