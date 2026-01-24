@@ -4,11 +4,11 @@ Country: Japan (Asia)
 
 ##### Also known as:
 
-FIXME
+okonomiyaki
 
 ### What we would like to see there
 
-FIXME
+The San'yō Railway
 
 ### Extra information
 
